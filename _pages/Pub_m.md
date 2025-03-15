@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /Publications/
+permalink: /Pub_m/
 author_profile: true
 redirect_from:
   - /resume
