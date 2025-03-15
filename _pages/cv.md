@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+You can access my detailed CV [Vinay_CV]{files/Vinay_CV_15-03-2025.pdf}.
+
 Education
-======
+------
 * Ph.D in Computer Sciences, GitHub University, South Asian University (An international university established by SAARC nations), 2025
 * M.Sc. in Informatics, Institute of Informatics and Communication, University of Delhi, 2017-19
 * B.Sc. in Physics, University of Delhi, 2014-17
 
 Work experience
-======
+------
 * **Feb 2021 – Aug 2023: Research Assistant (During Ph.D)**  
   * **Implementing institution** South Asian University, India  
   * **Project Title:** Efficient resource allocation for spectrally-spatially elastic optical networks, under the Core Research Grant (SERB, Govt. of India)  
@@ -24,7 +26,7 @@ Work experience
 
   
 Skills
-======
+------
 * Programming Languages: Python, C/C++, Java, MATLAB, Bash
 * Networking: Optical Networks, QoS Optimization, Virtual Network Embedding, Network Virtualization
 * Mathematical Modeling: Optimization, Queueing Theory, Graph Theory, Linear Programming
@@ -36,23 +38,21 @@ Skills
 * Soft Skills: Problem-Solving, Strategic Thinking, Teamwork, Analytical Thinking
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
