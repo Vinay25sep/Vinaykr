@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Vinay Kumar"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Computer Science 
+  bio              : "Ph.D. in Computer Science"
   
-  Research Interest: Optical Networks and Communication, QoS Optimization, Network Virtualization, Quantum Communication, and Resource Allocation"
+  Research Interest: "Optical Networks and Communication, QoS Optimization, Network Virtualization, Quantum Communication, and Resource Allocation"
   location         : "New Delhi, India"
   employer         : "South Asian University"
   uri              : # URL
