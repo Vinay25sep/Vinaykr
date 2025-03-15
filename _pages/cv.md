@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my detailed [CV](<embed src="{{ site.baseurl }}/files/Vinay_CV_15-03-2025.pdf" width="600" height="700" type='application/pdf'>).
+You can access my detailed [CV]().
 
 Education
 ------
