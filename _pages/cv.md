@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Sciences, GitHub University, South Asian University (An international university established by SAARC nations), 2025
+* M.Sc. in Informatics, Institute of Informatics and Communication, University of Delhi, 2017-19
+* B.Sc. in Physics, University of Delhi, 2014-17
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Feb 2021 – Aug 2023: Research Assistant (During Ph.D)**  
+  * **Implementing institution** South Asian University, India  
+  * **Project Title:** Efficient resource allocation for spectrally-spatially elastic optical networks, under the Core Research Grant (SERB, Govt. of India)  
+  * **Supervisor:** Dr. Bijoy Chand Chatterjee  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C/C++, Java, MATLAB, Bash
+* Networking: Optical Networks, QoS Optimization, Virtual Network Embedding, Network Virtualization
+* Mathematical Modeling: Optimization, Queueing Theory, Graph Theory, Linear Programming
+* Development Tools: PyCharm, Eclipse, VS Code
+* Database Management: MySQL, Oracle Database
+* Virtualization & Cloud: Docker, Kubernetes, Virtual Machines, Hypervisor
+* Hardware & Simulation: Raspberry Pi, Zodiac OpenFlow Switch, Mininet, Wireshark
+* Version Control: Git, GitHub.
+* Soft Skills: Problem-Solving, Strategic Thinking, Teamwork, Analytical Thinking
 
 Publications
 ======
