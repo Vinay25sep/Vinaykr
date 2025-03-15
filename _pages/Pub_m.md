@@ -12,6 +12,9 @@ redirect_from:
 My articles are also on [my Google Scholar profile](https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2) and [IEEE Xplore](https://ieeexplore.ieee.org/author/37089459890).
 
 
+My research addresses the challenge of **efficient resource allocation and network optimization in spectrally-spatially elastic optical networks (SS-EONs)**. As modern networks demand higher capacity, flexibility, and reliability, traditional optical networking approaches struggle with spectrum fragmentation, crosstalk interference, and suboptimal resource utilization. By leveraging **optimization techniques, graph theory, and machine learning**, my work focuses on designing advanced **virtual network embedding (VNE) algorithms** that enhance **QoS, minimize crosstalk, and improve spectral efficiency**, ultimately leading to **more scalable, intelligent, and adaptive next-generation optical networks**.
+
+
 ---
 
 ## **Conference Papers**  
