@@ -6,8 +6,8 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2
-    #url: /publications/
+    # url: https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2
+    url: /publications/
     
   - title: "Teaching and Research Experiences"
     url: /teaching/ 
