@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my detailed [CV]().
+You can access my detailed [CV](/files/Vinay_CV.pdf).
 
 Education
 ------
