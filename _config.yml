@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Vinay's Homepage"
 title_separator          : "-"
 name                     : &name "Vinay Kumar"
-description              : &description "Vinay Kumar is a Ph.D. scholar in Computer Science at South Asian University, specializing in optical networks and distributed resource allocation. With a passion for research and innovation, he focuses on advancing QoS-aware protocols and optimization techniques in networking."
+description              : &description "Description"
 url                      : https://vinay25sep.github.io/Vinaykr.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinay25sep.github.io/Vinaykr.github.io"
@@ -25,27 +25,27 @@ author:
   avatar           : "profile.png"
   name             : "Vinay Kumar"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Ph.D. scholar in Computer Science at South Asian University, specializing in optical networks and distributed resource allocation. With a passion for research and innovation, he focuses on advancing QoS-aware protocols and optimization techniques in networking."
+  bio              : "Ph.D. in Computer Science \n Research: Optical Networks, QoS Optimization, Network Virtualization, and Resource Allocation"
   location         : "New Delhi, India"
-  employer         : "Red Brick University"
+  employer         : "South Asian University"
   uri              : # URL
   email            : "Vinaykr.rs@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-3330-6989"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Vinay-Kumar-208?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Vinay25sep"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "vinaykumar1996"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
