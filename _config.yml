@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Vinay Kumar"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Computer Science |Research Interest: Optical Networks and Communication, QoS Optimization, Network Virtualization, Quantum Communication, and Resource Allocation"
+  bio              : "Ph.D. in Computer Science \n\n Research Interest: Optical Networks and Communication, QoS Optimization, Network Virtualization, Quantum Communication, and Resource Allocation"
   location         : "New Delhi, India"
   employer         : "South Asian University"
   uri              : # URL
-  email            : "Vinaykr.rs@gmail.com"
+  email            : "Vinaykr.rs@gmail.com" "Vinaykr.rs@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
