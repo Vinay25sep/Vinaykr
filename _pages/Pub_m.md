@@ -9,51 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my detailed [CV](https://github.com/Vinay25sep/Vinaykr/blob/master/files/Vinay_CV.pdf).
+My articles are also on [my Google Scholar profile](https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2).
 
-Education
-------
-* Ph.D in Computer Sciences,  South Asian University (An international university established by SAARC nations), 2019-25
-* M.Sc. in Informatics, Institute of Informatics and Communication, University of Delhi, 2017-19
-* B.Sc. in Physics, University of Delhi, 2014-17
+Here’s your list of publications formatted in **Markdown** with proper links:  
 
-Work experience
-------
-* **Research Assistant: Feb 2021 – Aug 2024 (During Ph.D)**  
-  * **Implementing institution** South Asian University, India  
-  * **Project Title:** Efficient resource allocation for spectrally-spatially elastic optical networks, under the Core Research Grant (SERB, Govt. of India)  
-  * **Supervisor:** Dr. Bijoy Chand Chatterjee
+---
 
-Publications
-------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching experience
-------
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## **Publications**  
+### **Conferences**  
 
-Talks
-------
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-  
-Skills
-------
-* **Programming Languages**: Python, C/C++, Java, MATLAB, Bash
-* **Networking**: Optical Networks, QoS Optimization, Virtual Network Embedding, Network Virtualization
-* **Mathematical Modeling**: Optimization, Queueing Theory, Graph Theory, Linear Programming
-* **Development Tools**: PyCharm, Eclipse, VS Code
-* **Database Management**: MySQL, Oracle Database
-* **Virtualization & Cloud**: Docker, Kubernetes, Virtual Machines, Hypervisor
-* **Hardware & Simulation**: Raspberry Pi, Zodiac OpenFlow Switch, Mininet, Wireshark
-* **Version Control**: Git, GitHub.
-* **Soft Skills**: Problem-Solving, Strategic Thinking, Teamwork, Analytical Thinking
+* **[Virtual Optical Network Embedding in Spectrally-Spatially Elastic Optical Networks Considering Dynamic Scenarios](https://www.pilab.jp/ipop2024/info/onlineproceedings.html#T2-3)**  
+  * *V. Kumar, E. Oki, B. C. Chatterjee*  
+  * 20th International Conference on IP/IoT Processing & Optical Network (iPOP 2024)  
+  * **Date:** June 27-28, 2024  
 
-  
+* **[PDavXT: Partition-Based Crosstalk-Avoided Defragmentation Scheme for Spectrally-Spatially Elastic Optical Networks](https://doi.org/10.1109/ICTON59386.2023.10207340)**  
+  * *R. Khantwal, V. Kumar, E. Oki, B. C. Chatterjee*  
+  * 23rd International Conference on Transparent Optical Networks (ICTON 2023)  
+  * **Date:** July 2-6, 2023  
 
+* **[XTawVNE: Inter-Core and Inter-Mode Crosstalk-Aware Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks](https://doi.org/10.1109/ANTS56424.2022.10227772)**  
+  * *V. Kumar, J. Halder, E. Oki, B. C. Chatterjee*  
+  * IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS 2022)  
+  * **Date:** December 18-21, 2022  
+
+* **[Inter-Core and Inter-Mode Crosstalk-Avoided Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks](https://doi.org/10.1109/HPSR54439.2022.9831362)**  
+  * *V. Kumar, J. Halder, A. Mitra, E. Oki, B. C. Chatterjee*  
+  * IEEE 23rd International Conference on High-Performance Switching and Routing (HPSR 2022)  
+  * **Date:** June 6-8, 2022  
+
+---
+
+### **Journals**  
+
+* **Shared Backup Path Protected Virtual Network Embedding Model in Spectrally-Spatially Elastic Optical Networks**  
+  * *V. Kumar, E. Oki, B. C. Chatterjee*  
+  * **Journal:** Journal of Optical Communications and Networking (**Under Review**)  
+
+* **Optimizing Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Aware Perspective**  
+  * *B. C. Chatterjee, V. Kumar, J. Halder, E. Oki*  
+  * **Journal:** IEEE Transactions on Network and Service Management (**Under Review**)  
+
+* **[VNEavXT: Offline Virtual Network Embedding Model Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks](https://doi.org/10.1109/TNSE.2024.3421246)**  
+  * *V. Kumar, J. Halder, A. Mitra, E. Oki, B. C. Chatterjee*  
+  * **Journal:** Transactions on Network Science and Engineering  
+  * **Date:** July 3, 2024  
+
+---
+
+This Markdown text will render properly on **GitHub**, **GitLab**, or any **Markdown-supported platform**. Let me know if you need any changes! 🚀
