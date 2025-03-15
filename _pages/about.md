@@ -16,3 +16,8 @@ I have actively contributed to international conferences and peer-reviewed journ
 Beyond research, I have experience as a teaching assistant, mentoring students in computer networks and network programming. I have also participated in hackathons, tech workshops, and volunteering initiatives, fostering my interest in innovation and collaboration.
 
 I am always open to discussing emerging network technologies, optimization techniques, and interdisciplinary collaborations. Let’s connect and explore new possibilities in networking and beyond!
+
+## 📩 Contact Information  
+
+- **Email:** [Vinaykr.rs@gmail.com](mailto:Vinaykr.rs@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/vinaykumar1996](https://www.linkedin.com/in/vinaykumar1996/)
