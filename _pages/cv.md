@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my detailed [CV](/files/Vinay_CV.pdf).
+You can access my detailed [CV](/Vinaykr/files/Vinay_CV.pdf).
 
 Education
 ------
-* Ph.D in Computer Sciences, GitHub University, South Asian University (An international university established by SAARC nations), 2025
+* Ph.D in Computer Sciences,  South Asian University (An international university established by SAARC nations), 2019-25
 * M.Sc. in Informatics, Institute of Informatics and Communication, University of Delhi, 2017-19
 * B.Sc. in Physics, University of Delhi, 2014-17
 
