@@ -19,7 +19,7 @@ Education
 
 Work experience
 ------
-* **Research Assistant: Feb 2021 – Aug 2024 (During Ph.D) **  
+* **Research Assistant: Feb 2021 – Aug 2024 (During Ph.D)**  
   * **Implementing institution** South Asian University, India  
   * **Project Title:** Efficient resource allocation for spectrally-spatially elastic optical networks, under the Core Research Grant (SERB, Govt. of India)  
   * **Supervisor:** Dr. Bijoy Chand Chatterjee
