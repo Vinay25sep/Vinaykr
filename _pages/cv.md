@@ -24,11 +24,6 @@ Work experience
   * **Project Title:** Efficient resource allocation for spectrally-spatially elastic optical networks, under the Core Research Grant (SERB, Govt. of India)  
   * **Supervisor:** Dr. Bijoy Chand Chatterjee
 
-Publications
-------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Teaching experience
 ------
