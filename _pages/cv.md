@@ -45,15 +45,15 @@ Talks
   
 Skills
 ------
-* Programming Languages: Python, C/C++, Java, MATLAB, Bash
-* Networking: Optical Networks, QoS Optimization, Virtual Network Embedding, Network Virtualization
-* Mathematical Modeling: Optimization, Queueing Theory, Graph Theory, Linear Programming
-* Development Tools: PyCharm, Eclipse, VS Code
-* Database Management: MySQL, Oracle Database
-* Virtualization & Cloud: Docker, Kubernetes, Virtual Machines, Hypervisor
-* Hardware & Simulation: Raspberry Pi, Zodiac OpenFlow Switch, Mininet, Wireshark
-* Version Control: Git, GitHub.
-* Soft Skills: Problem-Solving, Strategic Thinking, Teamwork, Analytical Thinking
+* **Programming Languages**: Python, C/C++, Java, MATLAB, Bash
+* **Networking**: Optical Networks, QoS Optimization, Virtual Network Embedding, Network Virtualization
+* **Mathematical Modeling**: Optimization, Queueing Theory, Graph Theory, Linear Programming
+* **Development Tools**: PyCharm, Eclipse, VS Code
+* **Database Management**: MySQL, Oracle Database
+* **Virtualization & Cloud**: Docker, Kubernetes, Virtual Machines, Hypervisor
+* **Hardware & Simulation**: Raspberry Pi, Zodiac OpenFlow Switch, Mininet, Wireshark
+* **Version Control**: Git, GitHub.
+* **Soft Skills**: Problem-Solving, Strategic Thinking, Teamwork, Analytical Thinking
 
   
 
