@@ -6,7 +6,7 @@ type: "Conference Talk"
 permalink: /talks/2023-07-02-icton-conference-talk
 venue: "ICTON 2023, International Conference on Transparent Optical Networks"
 date: 2023-07-02
-location: "France"
+location: "Bucharest, Romania"
 paper_link: "https://doi.org/10.1109/ICTON59386.2023.10207340"
 ---
 
