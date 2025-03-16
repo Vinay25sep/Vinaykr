@@ -25,7 +25,7 @@ Work experience
   * **Supervisor:** Dr. Bijoy Chand Chatterjee
 
   
-Teaching experience
+Teaching and Research Experience
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
