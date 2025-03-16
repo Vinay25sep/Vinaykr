@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-My articles are also on [my Google Scholar profile](https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2) and [IEEE Xplore](https://ieeexplore.ieee.org/author/37089459890).
-
-
 My research addresses the challenge of **efficient resource allocation and network optimization in spectrally-spatially elastic optical networks (SS-EONs)**. As modern networks demand higher capacity, flexibility, and reliability, traditional optical networking approaches struggle with spectrum fragmentation, crosstalk interference, and suboptimal resource utilization. By leveraging **optimization techniques, graph theory, and machine learning**, my work focuses on designing advanced **virtual network embedding (VNE) algorithms** that enhance **QoS, minimize crosstalk, and improve spectral efficiency**, ultimately leading to **more scalable, intelligent, and adaptive next-generation optical networks**.
 
 
@@ -32,12 +29,15 @@ My research addresses the challenge of **efficient resource allocation and netwo
 
 **J3.** **Kumar, Vinay**, Eiji Oki, and Bijoy Chand Chatterjee. *“Shared Backup Path Protected Virtual Network Embedding Model in Spectrally-Spatially Elastic Optical Networks.”* **Journal of Optical Communications and Networking**. (Under review).  
 
-**J2.** Chatterjee, Bijoy Chand, **Kumar, Vinay**, J. Halder, and Eiji Oki. *“Optimizing Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Aware Perspective.”* **IEEE Transactions on Network and Service Management**. (Under review).  
+**J2.** Chatterjee, Bijoy Chand, **Kumar, Vinay**, and Eiji Oki. *“Optimizing Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Aware Perspective.”* **IEEE Transactions on Network and Service Management**. (Under review).  
 
 **J1.** **Kumar, Vinay**, J. Halder, A. Mitra, Eiji Oki, and Bijoy Chand Chatterjee. *[“VNEavXT: Offline Virtual Network Embedding Model Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks.”](https://doi.org/10.1109/TNSE.2024.3421246)* **IEEE Transactions on Network Science and Engineering**, 3 July 2024. IEEE, 2024.  
 
 
- 
+ 📚 My research articles are available on:  
+- 🏆 [**Google Scholar**](https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2)  
+- ⚡ [**IEEE Xplore**](https://ieeexplore.ieee.org/author/37089459890)  
+
 
 ---
 
