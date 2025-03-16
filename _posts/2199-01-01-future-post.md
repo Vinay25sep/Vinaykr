@@ -1,12 +1,14 @@
 ---
-title: 'Exploring the Frontiers of Spectrally-Spatially Elastic Optical Networks and Virtual Network Embedding'
-date: 2025-03-16
-permalink: /posts/P1_exploring_sse_optical_networks_vne/
+title: 'Future Blog Post'
+date: 2199-01-01
+permalink: /posts/2012/08/blog-post-4/
 tags:
-  - optical networks
-  - network virtualization
-  - resource optimization
+  - cool posts
+  - category1
+  - category2
 ---
+
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
 In the rapidly evolving landscape of optical communications, the demand for higher data transmission rates and more efficient resource utilization has led to significant advancements. Two pivotal developments in this arena are **Spectrally-Spatially Elastic Optical Networks (SS-EONs)** and **Virtual Network Embedding (VNE)**. This blog post delves into these technologies, exploring their possibilities and applications.
 
