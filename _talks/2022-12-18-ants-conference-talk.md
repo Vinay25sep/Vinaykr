@@ -6,7 +6,7 @@ type: "Conference Talk"
 permalink: /talks/2022-12-18-ants-conference-talk
 venue: "ANTS 2022, IEEE International Conference on Advanced Networks and Telecommunications Systems"
 date: 2022-12-18
-location: "India"
+location: "IIT Gandhinagar, India"
 paper_link: "https://doi.org/10.1109/ANTS56424.2022.10227772"
 ---
 
