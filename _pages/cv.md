@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!--You can access my detailed [CV](https://github.com/Vinay25sep/Vinaykr/blob/master/files/Vinay_CV.pdf).-->
-You can access my detailed [CV](Vinay_cv.pdf)
+You can access my detailed [CV](Vinay_CV.pdf)
 
 Education
 ------
