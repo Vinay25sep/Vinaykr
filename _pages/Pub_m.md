@@ -26,11 +26,12 @@ My research addresses the challenge of **efficient resource allocation and netwo
 ---
 
 ## **Journal Papers**  
+<!--
 
 **J3.** **Kumar, Vinay**, Eiji Oki, and Bijoy Chand Chatterjee. *“Shared Backup Path Protected Virtual Network Embedding Model in Spectrally-Spatially Elastic Optical Networks.”* **Journal of Optical Communications and Networking**. (Under review).  
 
 **J2.** Chatterjee, Bijoy Chand, **Kumar, Vinay**, and Eiji Oki. *“Optimizing Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Aware Perspective.”* **IEEE Transactions on Network and Service Management**. (Under review).  
-
+-->
 **J1.** **Kumar, Vinay**, J. Halder, A. Mitra, Eiji Oki, and Bijoy Chand Chatterjee. *[“VNEavXT: Offline Virtual Network Embedding Model Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks.”](https://doi.org/10.1109/TNSE.2024.3421246)* **IEEE Transactions on Network Science and Engineering**, 3 July 2024. IEEE, 2024.  
 
 
