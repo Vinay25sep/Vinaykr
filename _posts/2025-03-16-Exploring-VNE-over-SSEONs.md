@@ -22,12 +22,12 @@ In the rapidly evolving landscape of optical communications, the demand for high
 
 ## Understanding Spectrally-Spatially Elastic Optical Networks
 
-Traditional optical networks often face limitations in accommodating the burgeoning data traffic due to their rigid spectral allocation. SS-EONs address this challenge by introducing flexibility in both spectral and spatial domains. This means that network resources can be dynamically allocated based on real-time demand, leading to enhanced efficiency and scalability.
+Due to their rigid spectral allocation, traditional optical networks often face limitations in accommodating the burgeoning data traffic. SS-EONs address this challenge by introducing flexibility in both spectral and spatial domains. This means network resources can be dynamically allocated based on real-time demand, enhancing efficiency and scalability.
 
 **Key Benefits of SS-EONs**:
 
-- **Improved Resource Utilization**: By adjusting the spectral and spatial parameters, SS-EONs can cater to varying bandwidth requirements, minimizing wasted resources.
-- **Enhanced Fault Tolerance**: The adaptability of SS-EONs allows for more efficient restoration processes. Studies have shown that spectral-spatial allocation can restore up to 4% more traffic compared to traditional methods, reducing the additional resources required for full traffic restoration by approximately 30%. :contentReference[oaicite:0]{index=0}
+- **Improved Resource Utilization**: SS-EONs can cater to varying bandwidth requirements by adjusting the spectral and spatial parameters, minimizing wasted resources.
+- **Enhanced Fault Tolerance**: The adaptability of SS-EONs allows for more efficient restoration processes. Studies have shown that spectral-spatial allocation can restore up to 4% more traffic than traditional methods, reducing the additional resources required for full traffic restoration by approximately 30%. 
 - **Scalability**: The inherent flexibility of SS-EONs makes them well-suited to accommodate future growth in data traffic without necessitating extensive infrastructure overhauls.
 
 ## The Role of Virtual Network Embedding
@@ -36,9 +36,9 @@ Network virtualization is a cornerstone of modern network management, enabling m
 
 **Applications of VNE in Optical Networks**:
 
-- **Data Center Networks**: VNE facilitates efficient resource allocation in optical data centers, ensuring high performance and reliability. Novel VNE algorithms have been proposed to enhance spectrum resource utilization and reduce demand blocking rates in such environments. :contentReference[oaicite:1]{index=1}
-- **Multi-Domain Heterogeneous Networks**: In complex network architectures comprising various technologies, VNE provides a unified framework for resource management, leading to improved efficiency and interoperability. Surveys have highlighted the importance of VNE in multi-domain heterogeneous converged optical networks, discussing future research issues and challenges. :contentReference[oaicite:2]{index=2}
-- **Mobile Edge Computing (MEC)**: With the rise of MEC systems, VNE plays a crucial role in embedding virtual networks efficiently, addressing challenges like resource fragmentation and maximizing infrastructure provider profits. Recent studies have proposed bilevel optimization approaches to tackle these issues effectively. :contentReference[oaicite:3]{index=3}
+- **Data Center Networks**: VNE facilitates efficient resource allocation in optical data centers, ensuring high performance and reliability. Novel VNE algorithms have been proposed to enhance spectrum resource utilization and reduce demand-blocking rates in such environments. 
+- **Multi-Domain Heterogeneous Networks**: In complex network architectures comprising various technologies, VNE provides a unified framework for resource management, leading to improved efficiency and interoperability. Surveys have highlighted the importance of VNE in multi-domain heterogeneous converged optical networks, discussing future research issues and challenges.
+- **Mobile Edge Computing (MEC)**: With the rise of MEC systems, VNE plays a crucial role in embedding virtual networks efficiently, addressing challenges like resource fragmentation, and maximizing infrastructure provider profits. Recent studies have proposed bilevel optimization approaches to tackle these issues effectively.
 
 ## Synergizing SS-EONs and VNE for Future Networks
 
