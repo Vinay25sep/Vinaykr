@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Frontiers of Spectrally-Spatially Elastic Optical Networks and Virtual Network Embedding'
 date: 2025-03-16
-permalink: /posts/exploring-sse-optical-networks-vne/
+permalink: /posts/P1_exploring_sse_optical_networks_vne/
 tags:
   - optical networks
   - network virtualization
