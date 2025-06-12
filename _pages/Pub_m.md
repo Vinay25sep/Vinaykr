@@ -32,8 +32,10 @@ My research addresses the challenge of **efficient resource allocation and netwo
 
 **J2.** Chatterjee, Bijoy Chand, **Kumar, Vinay**, and Eiji Oki. *“Optimizing Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Aware Perspective.”* **IEEE Transactions on Network and Service Management**. (Under review).  
 -->
-**J1.** **Kumar, Vinay**, J. Halder, A. Mitra, Eiji Oki, and Bijoy Chand Chatterjee. *[“VNEavXT: Offline Virtual Network Embedding Model Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks.”](https://doi.org/10.1109/TNSE.2024.3421246)* **IEEE Transactions on Network Science and Engineering**, 3 July 2024. IEEE, 2024.  
 
+**J2.** Bijoy Chand Chatterjee, **Vinay Kumar**, Eiji Oki. *[“Optimizing Virtual Network Embedding in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Aware Perspective.”](https://doi.org/10.1109/TNSM.2025.11029590)* **IEEE Transactions on Network and Service Management**, 10 June 2025. IEEE, 2025.
+
+**J1.** **Kumar, Vinay**, J. Halder, A. Mitra, Eiji Oki, and Bijoy Chand Chatterjee. *[“VNEavXT: Offline Virtual Network Embedding Model Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks.”](https://doi.org/10.1109/TNSE.2024.3421246)* **IEEE Transactions on Network Science and Engineering**, 3 July 2024. IEEE, 2024.  
 
  📚 My research articles are available on:  
 - 🏆 [**Google Scholar**](https://scholar.google.com/citations?user=CCSnKrcAAAAJ&hl=en&authuser=2)  
